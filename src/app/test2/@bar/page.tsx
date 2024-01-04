@@ -1,5 +1,5 @@
 const Bar = () => {
-  return null
-}
+  return null;
+};
 
 export default Bar;
